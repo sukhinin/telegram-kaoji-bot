@@ -1,0 +1,41 @@
+{
+  "(* ^ ω ^)": ["joy", "happy", "happiness"],
+  "(´｡• ω •｡`)": ["joy", "happy", "happiness"],
+  "(*^‿^*)": ["joy", "happy", "happiness"],
+  "＼(٥⁀▽⁀ )／": ["joy", "happy", "happiness"],
+  "(￢‿￢ )": ["joy", "happy", "happiness"],
+  "｡ﾟ( ﾟ^∀^ﾟ)ﾟ｡": ["joy", "happy", "happiness"],
+
+  "(´• ω •`) ♡": ["love"],
+  "(´｡• ᵕ •｡`) ♡": ["love"],
+  "( ´ ∀ `)ノ～ ♡": ["love"],
+  "♡＼(￣▽￣)／♡": ["love"],
+  "(°◡°♡)": ["love"],
+  "Σ>―(〃°ω°〃)♡→": ["love"],
+
+  "٩(╬ʘ益ʘ╬)۶": ["anger", "angry"],
+  "(凸ಠ益ಠ)凸": ["anger", "angry"],
+  "(ノ°益°)ノ": ["anger", "angry"],
+  "凸( ` ﾛ ´ )凸": ["anger", "angry"],
+  "凸(`△´＃)": ["anger", "angry"],
+  "(‡▼益▼)": ["anger", "angry"],
+  "(ಠ ∩ಠ)": ["anger", "angry"],
+  "(ノಠ益ಠ)ノ彡┻━┻": ["anger", "angry"],
+
+  "o(〒﹏〒)o": ["sad", "sadness"],
+  "(｡•́︿•̀｡)": ["sad", "sadness"],
+  "(╥﹏╥)": ["sad", "sadness"],
+  "(个_个)": ["sad", "sadness"],
+  "(ಥ﹏ಥ)": ["sad", "sadness"],
+  "ू(ʚ̴̶̷́ .̠ ʚ̴̶̷̥̀ ू)": ["sad", "sadness"],
+
+  "(✿◠‿◠)": ["friend"],
+  "(っ^‿^)っ": ["friend"],
+  "( •⌄• ू )✧": ["friend", "gift"],
+  "(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧": ["friend", "gift"],
+  "┏(＾0＾)┛┗(＾0＾) ┓": ["friend", "friends", "two"],
+  "☆(*^o^)乂(^-^*)☆": ["friend", "friends", "two"],
+  "(¬_¬\")-cԅ(‾⌣‾ԅ)": ["friend", "friends", "two"],
+  "（＊＾Ｕ＾）人（≧Ｖ≦＊）/": ["friend", "friends", "two", "happy"],
+  "(｡-_-｡ )人( ｡-_-｡)": ["friend", "friends", "two", "sad"]
+}

@@ -1,0 +1,26 @@
+# Compiled output
+/dist
+/node_modules
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+firebase-debug.log*
+
+# Tests
+/coverage
+/.nyc_output
+
+# Sensitive data
+.runtimeconfig.json
+
+# OS
+.DS_Store
+
+# IDE
+.idea
+*.iml
